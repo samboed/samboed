@@ -16,6 +16,7 @@ I'm Eduard, Python Backend Developer from 🇷🇺 **Moscow, Russia**
 ![Static Badge](https://img.shields.io/badge/FastAPI--009688?logo=fastapi)
 ![Static Badge](https://img.shields.io/badge/Django--092E20?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask--3BABC3?logo=flask)
+![Static Badge](https://img.shields.io/badge/Pydantic--E92063?logo=pydantic)
 ![Static Badge](https://img.shields.io/badge/Pytest--0A9EDC?logo=pytest)
 
 ### Contacts 📫
