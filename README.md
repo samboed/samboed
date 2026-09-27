@@ -1,8 +1,8 @@
-# Hello! Great to see you
+# Hello! Great to see you 👋
 Welcome to my page!  
 I'm Eduard, Backend developer from 🇷🇺 **Moscow, Russia**
 
-### Things I code with
+### Things I code with 🥞
 ![Static Badge](https://img.shields.io/badge/Python--306998?logo=python)
 ![Static Badge](https://img.shields.io/badge/C--A8B9CC?logo=c)
 ![Static Badge](https://img.shields.io/badge/C++--00599C?logo=cplusplus)
@@ -17,3 +17,6 @@ I'm Eduard, Backend developer from 🇷🇺 **Moscow, Russia**
 ![Static Badge](https://img.shields.io/badge/Django--092E20?logo=django)
 ![Static Badge](https://img.shields.io/badge/Flask--3BABC3?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Pytest--0A9EDC?logo=pytest)
+
+### Contacts 📫
+[Telegram](https://t.me/samboed) · eduard.azimoff@yandex.ru
