@@ -1,4 +1,4 @@
-# Hello! Great to see you 👋
+# Hi there! Great to see you 👋
 Welcome to my page!  
 I'm Eduard, Python Backend Developer from 🇷🇺 **Moscow, Russia**
 
