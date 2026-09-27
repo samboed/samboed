@@ -1,6 +1,6 @@
 # Hello! Great to see you 👋
 Welcome to my page!  
-I'm Eduard, Backend developer from 🇷🇺 **Moscow, Russia**
+I'm Eduard, Python Backend Developer from 🇷🇺 **Moscow, Russia**
 
 ### Things I code with 🥞
 ![Static Badge](https://img.shields.io/badge/Python--306998?logo=python)
